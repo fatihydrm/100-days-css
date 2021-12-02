@@ -172,28 +172,36 @@ body {
             width: 46px;
           }}
           .red-dot-5{&::after{
-            transform: rotate();
+            transform: rotate(11deg) translate(1px,4px);
+            width: 42px;
           }}
           .red-dot-6{&::after{
-            transform: rotate();
+            transform: rotate(-31deg) translate(4px,-10px);
+            width: 48px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-1{&::after{
+            transform: rotate(-15deg) translate(4px,-4px);
+            width: 40px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-2{&::after{
+            transform: rotate(19deg) translate(4px,6px);
+            width: 40px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-3{&::after{
+            transform: rotate(-12deg) translate(4px,-3px);
+            width: 40px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-4{&::after{
+            transform: rotate(6deg) translate(4px,2px);
+            width: 40px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-5{&::after{
+            transform: rotate(6deg) translate(4px,2px);
+            width: 40px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-6{&::after{
+            transform: rotate(-12deg) translate(4px,-3px);
+            width: 40px;
           }}
         }
       }
