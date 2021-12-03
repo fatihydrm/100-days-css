@@ -81,7 +81,7 @@ body {
         width: 100%;
         height: 36px;
         display: flex;
-        justify-content: end;
+        justify-content: flex-end;
         align-items: center;
         .color-r,.color-b{
           font-size: 10px;
@@ -132,10 +132,45 @@ body {
             position: relative;
             display: flex;
             align-items: center;
+            cursor: pointer;
             &::after{
               content:'';
               position: absolute;
               height: 2px;
+              cursor: default;
+            }
+            .popup{
+              transform: translate(-30%,-16px);
+              background: $red;
+              color: #fff;
+              padding: 5px;
+              border-radius: 2px;
+              position: absolute;
+              font-size: 8px;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              transition: .3s;
+              opacity: 0;
+              &::after{
+                content: '';
+                position: absolute;
+                width: 8px;
+                height: 8px;
+                background: $red;
+                transform: rotate(45deg) translate(6px,6px);
+              }
+            }
+            &:hover > .popup{
+              opacity: 1;
+              transform: translate(-30%,-20px);
+            }
+          }
+          .blue-dot > .popup{
+            background:  $blue;
+
+            &::after{
+              background: $blue;
             }
           }
           .red-dot{background: $red;&::after{background:$red;}}
@@ -146,7 +181,14 @@ body {
           .red-dot-5{transform: translate(0,14px);}
           .red-dot-6{transform: translate(0,22px);}
           .red-dot-7{transform: translate(0,-2px);}
-          .blue-dot{background: $blue;&::after{background: $blue;}}
+          
+          .blue-dot{
+            background: $blue;
+            &::after{background: $blue;
+            &:hover{
+              
+            }
+          }}
           .blue-dot-1{transform: translate(0,2px);}
           .blue-dot-2{transform: translate(0,-8px);}
           .blue-dot-3{transform: translate(0,6px);}
@@ -172,28 +214,36 @@ body {
             width: 46px;
           }}
           .red-dot-5{&::after{
-            transform: rotate();
+            transform: rotate(11deg) translate(1px,4px);
+            width: 42px;
           }}
           .red-dot-6{&::after{
-            transform: rotate();
+            transform: rotate(-31deg) translate(4px,-10px);
+            width: 48px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-1{&::after{
+            transform: rotate(-15deg) translate(4px,-4px);
+            width: 40px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-2{&::after{
+            transform: rotate(19deg) translate(4px,6px);
+            width: 40px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-3{&::after{
+            transform: rotate(-12deg) translate(4px,-3px);
+            width: 40px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-4{&::after{
+            transform: rotate(6deg) translate(4px,2px);
+            width: 40px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-5{&::after{
+            transform: rotate(6deg) translate(4px,2px);
+            width: 40px;
           }}
-          .blue-dot{&::after{
-            transform: rotate();
+          .blue-dot-6{&::after{
+            transform: rotate(-12deg) translate(4px,-3px);
+            width: 40px;
           }}
         }
       }

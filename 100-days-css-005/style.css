@@ -91,7 +91,7 @@ body {
   width: 100%;
   height: 36px;
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   align-items: center;
 }
 
@@ -152,12 +152,51 @@ body {
   position: relative;
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .box .card .bottom .two .dot-list-red .red-dot::after, .box .card .bottom .two .dot-list-red .blue-dot::after, .box .card .bottom .two .dot-list-blue .red-dot::after, .box .card .bottom .two .dot-list-blue .blue-dot::after {
   content: '';
   position: absolute;
   height: 2px;
+  cursor: default;
+}
+
+.box .card .bottom .two .dot-list-red .red-dot .popup, .box .card .bottom .two .dot-list-red .blue-dot .popup, .box .card .bottom .two .dot-list-blue .red-dot .popup, .box .card .bottom .two .dot-list-blue .blue-dot .popup {
+  transform: translate(-30%, -16px);
+  background: #FA7373;
+  color: #fff;
+  padding: 5px;
+  border-radius: 2px;
+  position: absolute;
+  font-size: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: .3s;
+  opacity: 0;
+}
+
+.box .card .bottom .two .dot-list-red .red-dot .popup::after, .box .card .bottom .two .dot-list-red .blue-dot .popup::after, .box .card .bottom .two .dot-list-blue .red-dot .popup::after, .box .card .bottom .two .dot-list-blue .blue-dot .popup::after {
+  content: '';
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: #FA7373;
+  transform: rotate(45deg) translate(6px, 6px);
+}
+
+.box .card .bottom .two .dot-list-red .red-dot:hover > .popup, .box .card .bottom .two .dot-list-red .blue-dot:hover > .popup, .box .card .bottom .two .dot-list-blue .red-dot:hover > .popup, .box .card .bottom .two .dot-list-blue .blue-dot:hover > .popup {
+  opacity: 1;
+  transform: translate(-30%, -20px);
+}
+
+.box .card .bottom .two .dot-list-red .blue-dot > .popup, .box .card .bottom .two .dot-list-blue .blue-dot > .popup {
+  background: #7BA2FF;
+}
+
+.box .card .bottom .two .dot-list-red .blue-dot > .popup::after, .box .card .bottom .two .dot-list-blue .blue-dot > .popup::after {
+  background: #7BA2FF;
 }
 
 .box .card .bottom .two .dot-list-red .red-dot, .box .card .bottom .two .dot-list-blue .red-dot {
@@ -253,35 +292,43 @@ body {
 }
 
 .box .card .bottom .two .dot-list-red .red-dot-5::after, .box .card .bottom .two .dot-list-blue .red-dot-5::after {
-  transform: rotate();
+  transform: rotate(11deg) translate(1px, 4px);
+  width: 42px;
 }
 
 .box .card .bottom .two .dot-list-red .red-dot-6::after, .box .card .bottom .two .dot-list-blue .red-dot-6::after {
-  transform: rotate();
+  transform: rotate(-31deg) translate(4px, -10px);
+  width: 48px;
 }
 
-.box .card .bottom .two .dot-list-red .blue-dot::after, .box .card .bottom .two .dot-list-blue .blue-dot::after {
-  transform: rotate();
+.box .card .bottom .two .dot-list-red .blue-dot-1::after, .box .card .bottom .two .dot-list-blue .blue-dot-1::after {
+  transform: rotate(-15deg) translate(4px, -4px);
+  width: 40px;
 }
 
-.box .card .bottom .two .dot-list-red .blue-dot::after, .box .card .bottom .two .dot-list-blue .blue-dot::after {
-  transform: rotate();
+.box .card .bottom .two .dot-list-red .blue-dot-2::after, .box .card .bottom .two .dot-list-blue .blue-dot-2::after {
+  transform: rotate(19deg) translate(4px, 6px);
+  width: 40px;
 }
 
-.box .card .bottom .two .dot-list-red .blue-dot::after, .box .card .bottom .two .dot-list-blue .blue-dot::after {
-  transform: rotate();
+.box .card .bottom .two .dot-list-red .blue-dot-3::after, .box .card .bottom .two .dot-list-blue .blue-dot-3::after {
+  transform: rotate(-12deg) translate(4px, -3px);
+  width: 40px;
 }
 
-.box .card .bottom .two .dot-list-red .blue-dot::after, .box .card .bottom .two .dot-list-blue .blue-dot::after {
-  transform: rotate();
+.box .card .bottom .two .dot-list-red .blue-dot-4::after, .box .card .bottom .two .dot-list-blue .blue-dot-4::after {
+  transform: rotate(6deg) translate(4px, 2px);
+  width: 40px;
 }
 
-.box .card .bottom .two .dot-list-red .blue-dot::after, .box .card .bottom .two .dot-list-blue .blue-dot::after {
-  transform: rotate();
+.box .card .bottom .two .dot-list-red .blue-dot-5::after, .box .card .bottom .two .dot-list-blue .blue-dot-5::after {
+  transform: rotate(6deg) translate(4px, 2px);
+  width: 40px;
 }
 
-.box .card .bottom .two .dot-list-red .blue-dot::after, .box .card .bottom .two .dot-list-blue .blue-dot::after {
-  transform: rotate();
+.box .card .bottom .two .dot-list-red .blue-dot-6::after, .box .card .bottom .two .dot-list-blue .blue-dot-6::after {
+  transform: rotate(-12deg) translate(4px, -3px);
+  width: 40px;
 }
 
 .box .card .bottom .three {
