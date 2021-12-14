@@ -58,14 +58,13 @@ body {
 }
 
 .box .one .container .circle-1 {
-  transform: rotate(-20deg);
-  animation: circleAnimation 2s alternate infinite;
+  transform: rotate(20deg);
+  animation: circleAnimation 1.2s alternate infinite;
 }
 
 .box .one .container .circle-2 {
-  transform: rotate(-20deg);
-  animation: circleAnimation 2s alternate infinite;
-  animation-delay: 2s;
+  transform: rotate(20deg);
+  animation: circleAnimation-2 1.2s alternate infinite;
 }
 
 .box .one .container .left {
@@ -88,16 +87,25 @@ body {
 
 @keyframes circleAnimation {
   0% {
-    transform: rotate(-20deg) translate(0, 0);
+    transform: rotate(-30deg) translate(0, 4px);
   }
-  50% {
-    transform: rotate(40deg) translate(0, -20px);
-  }
-  90% {
-    transform: rotate(-20deg) translate(0, 0px);
+  10% {
+    transform: rotate(-30deg) translate(0, 4px);
   }
   100% {
-    transform: rotate(-20deg) translate(0, 0);
+    transform: rotate(20deg) translate(0, 8px);
+  }
+}
+
+@keyframes circleAnimation-2 {
+  0% {
+    transform: rotate(20deg) translate(0, 4px);
+  }
+  10% {
+    transform: rotate(20deg) translate(0, 4px);
+  }
+  100% {
+    transform: rotate(-30deg) translate(0, 8px);
   }
 }
 
