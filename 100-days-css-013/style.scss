@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,400,300,300italic);
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  transition: .3s;
+}
+html,body{
+  height: 100%;
+}
+@mixin displayflex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body{
+  @include displayflex();
+  background: #fff;
+}
+.box{
+  width: 400px;
+  height: 400px;
+  border-radius: 3px;
+	
+}
