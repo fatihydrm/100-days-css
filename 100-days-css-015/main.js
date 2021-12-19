@@ -2,7 +2,7 @@ document.querySelector("#file").onchange = function () {
   $fileName = document.querySelector("#file");
   $fileName.style.color = "#aaa";
 
-  $image= document.querySelector("#img");
+  $image = document.querySelector("#img");
   $image.style.opacity = "0";
 
   $btn = document.querySelector("#btn");
@@ -22,5 +22,5 @@ document.querySelector("#file").onchange = function () {
 
     $ok = document.querySelector("#ok");
     $ok.style.animation = "ok 2.5s linear forwards";
-  }
+  };
 };

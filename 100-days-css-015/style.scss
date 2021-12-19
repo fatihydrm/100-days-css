@@ -45,11 +45,11 @@ body {
     h4 {
       color: #aaa;
     }
-    .line{
+    .line {
       width: 300px;
       height: 3px;
       background: #6ece3b;
-      transform: translate(-100%,-14px);
+      transform: translate(-100%, -14px);
       transition: 2.5s linear;
     }
     & > label:nth-last-of-type(1) {
@@ -58,7 +58,7 @@ body {
       border: 1px dashed #999;
       position: relative;
       border-radius: 3px;
-      transform: translate(0,-16px);
+      transform: translate(0, -16px);
       .input {
         padding: 30px 4px;
         color: transparent;
@@ -67,45 +67,44 @@ body {
       .input::-webkit-file-upload-button {
         display: none;
       }
-      img{
+      img {
         width: 60px;
         position: absolute;
         transform: translate(-76px, 20px);
-        
       }
-      #circle{
+      #circle {
         width: 40px;
         transform: translate(-68px, 20px) rotate(0);
         opacity: 0;
 
         @keyframes cirlce {
-          0%{
+          0% {
             transform: translate(-68px, 20px) rotate(0);
             opacity: 1;
           }
-          99%{
+          99% {
             transform: translate(-68px, 20px) rotate(360deg);
             opacity: 1;
           }
-          100%{
+          100% {
             transform: translate(-68px, 20px) rotate(360deg);
             opacity: 0;
           }
         }
       }
-      #ok{
+      #ok {
         width: 40px;
         transform: translate(-68px, 25px);
         opacity: 0;
 
         @keyframes ok {
-          0%{
+          0% {
             opacity: 0;
           }
-          99%{
+          99% {
             opacity: 0;
           }
-          100%{
+          100% {
             opacity: 1;
           }
         }
