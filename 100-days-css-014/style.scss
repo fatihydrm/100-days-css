@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:600,400,300,300italic);
-*{
+* {
   margin: 0;
   padding: 0;
   outline: none;
@@ -7,202 +7,194 @@
   text-decoration: none;
   list-style: none;
   box-sizing: border-box;
-  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-family: "Open Sans", Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-  transition: .3s;
+  -moz-osx-font-smoothing: grayscale;
+  transition: 0.3s;
 }
-html,body{
+html,
+body {
   height: 100%;
 }
-@mixin displayflex {
+@mixin flex {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-body{
-  @include displayflex();
+body {
+  @include flex();
   background: #222;
 }
-.box{
+.box {
   width: 400px;
   height: 400px;
+  @include flex();
+  background: #4b4841;
   border-radius: 3px;
-	background: #fff;
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-gap: 3px;
-  padding: 3px;
-  position: relative;
-  overflow: hidden;
-  .person{
-    padding: 20px;
-    background: royalblue;
-    cursor: pointer;
+
+  .container {
+    width: 320px;
+    height: 180px;
+    border-radius: 3px;
     position: relative;
-    transition: .5s;
-    @include displayflex();
-    &::before{
-      content: '';
-      position: absolute;
+    perspective: 2000px;
+
+    .front,
+    .back {
       width: 100%;
       height: 100%;
-      background: rgba(0, 0, 0, .7);
-      inset: 0;
-      opacity: 0;
-      transition: .5s;
-    }
-    &::after{
-      content: ' \002B';
-      color: white;
-      z-index: 1;
-      padding: 10px;
-      width: 30px;
-      height: 30px;
-      background: #EC6565;
-      @include displayflex();
-      border-radius: 100%;
-      font-size: 30px;
-      transform: scale(1.4);
-      opacity: 0;
-      transition: .5s;
-    }
-    &:hover{
-      &::before{
-        opacity: 1;
-      }
-      &::after{
-        transform: scale(1);
-        opacity: 1;
-      }
-    }
-  }
-  .person-1{
-    background:no-repeat #48c0c0 url(https://100dayscss.com/codepen/13-1.jpg);
-    background-size: 100%;
-  }
-  .person-2{
-    background:no-repeat #a8d878 url(https://100dayscss.com/codepen/13-2.jpg);
-    background-size: 100%;
-  }
-  .person-3{
-    background:no-repeat #f03048 url(https://100dayscss.com/codepen/13-3.jpg);
-    background-size: 100%;
-  }
-  .person-4{
-    background:no-repeat #ff9000 url(https://100dayscss.com/codepen/13-4.jpg);
-    background-size: 100%;
-  }
-  .top,.bottom{
-    width: inherit;
-    height: 200px;
-    position: absolute;
-    left: 0;
-    z-index: 2;
-    transition: .8s;
-  }
-  .top{
-    transform: translate(0,-100%);
-    background:no-repeat #fff url(https://100dayscss.com/codepen/13-1-header.jpg);
-    background-position: 0 30px;
-
-    .close{
-      width: 50px;
-      height: 50px;
-      background: #EC6565;
-      border-radius: 100%;
-      right: 10px;
-      top: 10px;
       position: absolute;
+      inset: 0;
+      @include flex();
+      font-size: 30px;
+      font-weight: bold;
       cursor: pointer;
-      @include displayflex();
-      transform: translate(0,-100px);
-      transition: transform .8s;
-      transition-delay:.5s;
-      &::after,&::before{
-        content: '';
+      backface-visibility: hidden;
+      transition: 0.7s linear;
+      background: #ffce4e;
+      border-radius: 2px;
+    }
+    .front {
+      flex-direction: column;
+      overflow: hidden;
+      & > img {
+        animation: bicycle 0.3s alternate infinite;
+
+        @keyframes bicycle {
+          to {
+            transform: scaleY(1.03);
+            transform-origin: 0% 100%;
+          }
+        }
+      }
+      .bottom {
+        width: 200px;
+        height: 3px;
+
+        transform: translate(200px);
+        background: linear-gradient(
+          to right,
+          #4b4841 0% 3%,
+          transparent 3% 7%,
+          #4b4841 7% 15%,
+          transparent 15% 25%,
+          #4b4841 25% 40%,
+          transparent 40% 45%,
+          #4b4841 45% 50%,
+          transparent 50% 60%,
+          #4b4841 60% 70%,
+          transparent 70% 80%,
+          #4b4841 80% 90%,
+          transparent 90% 95%,
+          #4b4841 95% 100%
+        );
+        animation: bottom 1.3s linear infinite;
+
+        @keyframes bottom {
+          to {
+            transform: translate(-150px);
+          }
+        }
+      }
+      &::before {
+        content: "";
         position: absolute;
-        width: 2px;
-        height: 14px;
-        background: #fff;
-        transition: .3s;
+        width: 200px;
+        height: 200px;
+        background: #ffce4e;
+        z-index: 2;
+        transform: translate(-180px, 0);
       }
-      &::after{
-        transform: rotate(45deg);
+      &::after {
+        content: "";
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        background: #ffce4e;
+        z-index: 2;
+        transform: translate(180px, 0);
       }
-      &::before{
-        transform: rotate(-45deg);
-      }
-      &:hover{
-        background: #fff;
+      transform: rotateX(0deg);
+    }
+    .back {
+      transform: rotateX(180deg);
+      overflow: hidden;
+      @include flex();
+      & > .line-box {
+        width: 180px;
+        height: 180px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        transform: translate(200px);
+        animation: line 1.3s linear infinite;
+        .line {
+          width: random(28) + px;
+          height: 3px;
+          background: #4b4841;
+          position: relative;
+          left: -40px;
+        }
+        @for $i from 1 to 10 {
+          .line:nth-last-of-type(#{$i}){
+            width: random(25)+px;
+          }
+        }
+        @for $i from 1 to 10 {
+          .line:nth-last-of-type(#{$i}){
+            left: random(100)+px;
+          }
+        }
+        .line:not(:last-of-type) {
+          margin-bottom: 10px;
+        }
+        .line:nth-last-of-type(1){
+          transform: translate();
+        }
 
-        &::after,&::before{
-          background: #EC6565;
+        @keyframes line {
+          to{
+            transform: translate(-200px);
+          }
+        }
+      }
+      &::before {
+        content: "";
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        background: #ffce4e;
+        z-index: 2;
+        transform: translate(-180px, 0);
+      }
+      &::after {
+        content: "";
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        background: #ffce4e;
+        z-index: 2;
+        transform: translate(180px, 0);
+      }
+      & > img{
+        position: absolute;
+        transform: translate(0,-6px);
+        animation: helicopter 1s alternate-reverse infinite;
+
+        @keyframes helicopter {
+          to{
+            transform: translate(0,6px);
+          }
         }
       }
     }
-  }
-  .bottom{
-    background: #EC6565;
-    bottom: 0;
-    transform: translate(0,100%);
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-top: 64px;
-    .button{
-      display: flex;
-      justify-content: center;
-      padding-top: 24px;
-      i{
-        width: 46px;
-        height: 46px;
-        border: 1px solid #fff;
-        border-radius: 100%;
-        @include displayflex();
-        margin: 0 14px;
-        cursor: pointer;
-        transition: .3s;
-        &:hover{
-          background: #fff;
-          color: #EC6565;
-        }
+    &:hover {
+      .back {
+        transform: rotateX(360deg);
       }
-    }
-  }
-  .profile{
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    background:no-repeat #48c0c0 url(https://100dayscss.com/codepen/13-1.jpg);
-    background-size: 100px;
-    border-radius: 100%;
-    border: 2px solid #fff;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,calc(-50% - 400px));
-    z-index: 3;
-    transition: .8s;
-    transition-delay: .2s;
-  }
-  input[type="checkbox"]{
-    display: none;
-
-    &:checked{
-
-      & ~ .top{
-        transform: translate(0,0);
-
-        & > .close{
-          transform: translate(0,0);
-        }
-      }
-      & ~ .bottom{
-        transform: translate(0,0);
-      }
-      & ~ .profile{
-        transform: translate(-50%,-50%);
+      .front {
+        transform: rotateX(180deg);
       }
     }
   }
