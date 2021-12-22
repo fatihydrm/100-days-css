@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,400,300,300italic);
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Open Sans", Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html,
+body {
+  height: 100%;
+}
+@mixin flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  @include flex();
+  background: #222;
+}
+.box {
+  width: 400px;
+  height: 400px;
+  @include flex();
+  background: #46a6da;
+  border-radius: 3px;
+  position: relative;
+
+  .items {
+    position: absolute;
+    background: #fff;
+  }
+  .item-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    top: 0 + -110px;
+    animation: item-1 2s ease forwards;
+
+    
+  }
+  /*
+  .item-2{
+    width: 100px;
+    height: 100px;
+    clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+  }
+  .item-2{
+    width: 100px;
+    height: 100px;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  }
+  .item-3{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+  }
+  */
+}
