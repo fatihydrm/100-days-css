@@ -132,7 +132,7 @@ body {
 }
 
 .box .container .back > .line-box .line {
-  width: 26px;
+  width: 15px;
   height: 3px;
   background: #4b4841;
   position: relative;
@@ -140,75 +140,75 @@ body {
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(1) {
-  width: 8px;
+  width: 4px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(2) {
-  width: 14px;
+  width: 2px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(3) {
-  width: 5px;
+  width: 3px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(4) {
-  width: 15px;
+  width: 16px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(5) {
-  width: 14px;
+  width: 12px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(6) {
-  width: 6px;
+  width: 2px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(7) {
+  width: 18px;
+}
+
+.box .container .back > .line-box .line:nth-last-of-type(8) {
   width: 24px;
 }
 
-.box .container .back > .line-box .line:nth-last-of-type(8) {
-  width: 6px;
-}
-
 .box .container .back > .line-box .line:nth-last-of-type(9) {
-  width: 5px;
+  width: 7px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(1) {
-  left: 10px;
+  left: 59px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(2) {
-  left: 87px;
+  left: 3px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(3) {
-  left: 75px;
+  left: 19px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(4) {
-  left: 45px;
+  left: 99px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(5) {
-  left: 57px;
+  left: 30px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(6) {
-  left: 60px;
+  left: 18px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(7) {
-  left: 79px;
+  left: 85px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(8) {
-  left: 21px;
+  left: 33px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(9) {
-  left: 92px;
+  left: 5px;
 }
 
 .box .container .back > .line-box .line:not(:last-of-type) {
