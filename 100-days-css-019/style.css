@@ -83,7 +83,7 @@ input::-webkit-inner-spin-button {
 }
 
 .box #radio-2:checked ~ .buttons > .bullet {
-  transform: translate(60px, 5px);
+  transform: translate(59px, 5px);
 }
 
 .box #radio-2:checked ~ .bg {
@@ -91,7 +91,7 @@ input::-webkit-inner-spin-button {
 }
 
 .box #radio-3:checked ~ .buttons > .bullet {
-  transform: translate(114px, 5px);
+  transform: translate(113px, 5px);
 }
 
 .box #radio-3:checked ~ .bg {
