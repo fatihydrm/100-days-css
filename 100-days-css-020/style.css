@@ -103,6 +103,8 @@ body {
 
 .box input[type="checkbox"]:checked ~ .reset {
   opacity: 1;
+  transition: 0.3s;
+  transition-delay: 3s;
 }
 
 .box input[type="checkbox"]:checked ~ .icon.mail {
@@ -199,7 +201,5 @@ body {
 
 .box .button.reset {
   opacity: 0;
-  transition: 0.3s;
-  transition-delay: 2.5s;
 }
 /*# sourceMappingURL=style.css.map */

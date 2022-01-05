@@ -94,6 +94,8 @@ body {
       }
       & ~ .reset {
         opacity: 1;
+        transition: 0.3s;
+        transition-delay: 3s;
       }
       & ~ .icon {
         &.mail {
@@ -107,13 +109,13 @@ body {
           animation: plane 1s ease-in-out forwards;
           animation-delay: 2s;
           @keyframes plane {
-            0%{
+            0% {
               transform: translate(0, 120px);
             }
-            50%{
+            50% {
               transform: translate(-10px, 130px);
             }
-            100%{
+            100% {
               transform: translate(220px, -110px);
             }
           }
@@ -185,8 +187,6 @@ body {
     }
     &.reset {
       opacity: 0;
-      transition: 0.3s;
-      transition-delay: 2.5s;
     }
   }
 }
