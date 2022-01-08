@@ -11,9 +11,7 @@
 [100-days-css-011](https://codepen.io/fatihydrm/embed/zYENyOz/?theme-id=modal#result-box)  
 [100-days-css-012](https://codepen.io/fatihydrm/embed/YzrZYOg/?theme-id=modal#result-box)  
 [100-days-css-013](https://codepen.io/fatihydrm/embed/KKXmVLN/?theme-id=modal#result-box)
-
 [100-days-css-014](https://codepen.io/fatihydrm/embed/wvrerNo/?theme-id=modal#result-box)  
-
 [100-days-css-015](https://codepen.io/fatihydrm/embed/YzrQeYM/?theme-id=modal#result-box)
 [100-days-css-016](https://codepen.io/fatihydrm/embed/WNZMOzb/?theme-id=modal#result-box)  
 [100-days-css-017](https://codepen.io/fatihydrm/embed/MWEQoZJ/?theme-id=modal#result-box)  
