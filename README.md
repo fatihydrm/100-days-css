@@ -1,116 +1,70 @@
 [100-days-css-001](https://codepen.io/fatihydrm/embed/qBPBjOq/?theme-id=modal#result-box)
 
 
-100-days-css-002
+[100-days-css-002](https://codepen.io/fatihydrm/embed/dyVyReJ/?theme-id=modal#result-box)
 
-![Screenshot_2](https://user-images.githubusercontent.com/20463385/144060365-7aba950d-346f-4617-8f39-28c123da434b.png)
 
+[100-days-css-003](https://codepen.io/fatihydrm/embed/abLzdow/?theme-id=modal#result-box)
 
-100-days-css-003
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/144130633-7aa00b4b-1ea5-49af-bc68-434072901bfa.png)
+[100-days-css-004](https://codepen.io/fatihydrm/embed/jOGEQEp/?theme-id=modal#result-box)
 
 
-100-days-css-004
+[100-days-css-005](https://codepen.io/fatihydrm/embed/bGodpee/?theme-id=modal#result-box)
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/144313715-66d6341c-3ce4-4f8f-837e-04bfe92e9344.png)
 
+[100-days-css-006](https://codepen.io/fatihydrm/embed/eYGpBBE/?theme-id=modal#result-box)
 
-100-days-css-005
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/144428267-b5b8df73-42f1-4b0c-81c5-3e9cad2698f9.png)
+[100-days-css-007](https://codepen.io/fatihydrm/embed/XWeXrNa/?theme-id=modal#result-box)
 
 
-100-days-css-006
+[100-days-css-008](https://codepen.io/fatihydrm/embed/ZEXOpzj/?theme-id=modal#result-box)
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/144682637-11bc18cd-5f5f-4688-ba56-f68671e366e4.png)
 
+[100-days-css-009](https://codepen.io/fatihydrm/embed/eYGBBYx/?theme-id=modal#result-box)
 
-100-days-css-007
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/144751128-2c4de985-0132-408f-80ab-15d050bf2ad2.png)
+[100-days-css-010](https://codepen.io/fatihydrm/embed/mdBOMzV/?theme-id=modal#result-box)
 
 
-100-days-css-008
+[100-days-css-011](https://codepen.io/fatihydrm/embed/zYENyOz/?theme-id=modal#result-box)
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/145277713-a4e7323f-0638-43d5-a7f9-1458045774d7.png)
 
+[100-days-css-012](https://codepen.io/fatihydrm/embed/YzrZYOg/?theme-id=modal#result-box)
 
-100-days-css-009
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/145711716-c11ad4b0-1ed1-4e94-9d72-15ece27662ca.png)
+[100-days-css-013](https://codepen.io/fatihydrm/embed/KKXmVLN/?theme-id=modal#result-box)
 
 
-100-days-css-010
+[100-days-css-014](https://codepen.io/fatihydrm/embed/wvrerNo/?theme-id=modal#result-box)
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/145726971-bff08eea-d0ea-4fdb-a3f1-df2114440fbe.png)
 
+[100-days-css-015](https://codepen.io/fatihydrm/embed/YzrQeYM/?theme-id=modal#result-box)
 
-100-days-css-011
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/146078767-8059d3ee-4546-4b9e-bf41-948fed9e7d2f.png)
+[100-days-css-016](https://codepen.io/fatihydrm/embed/WNZMOzb/?theme-id=modal#result-box)
 
 
-100-days-css-012
+[100-days-css-017](https://codepen.io/fatihydrm/embed/MWEQoZJ/?theme-id=modal#result-box)
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/146279787-f91f569d-2518-4840-9c84-2b3aaa7589f2.png)
 
+[100-days-css-018](https://codepen.io/fatihydrm/embed/GRMdXQa/?theme-id=modal#result-box)
 
-100-days-css-013
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/146464122-b42f0e18-cf7c-45b5-abc7-51f5ed38496d.png)
+[100-days-css-019](https://codepen.io/fatihydrm/embed/GRMGOMM/?theme-id=modal#result-box)
 
 
-100-days-css-014
+[100-days-css-020](https://codepen.io/fatihydrm/embed/QWqxrQw/?theme-id=modal#result-box)
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/146685416-6a5b42f4-9f6c-4785-95c3-3e9488589229.png)
 
+[100-days-css-021](https://codepen.io/fatihydrm/embed/mdBjyEL/?theme-id=modal#result-box)
 
-100-days-css-015
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/146694187-c5dbc578-be32-4a5f-9299-1814be31e216.png)
+[100-days-css-022](https://codepen.io/fatihydrm/embed/abLjYjb/?theme-id=modal#result-box)
 
 
-100-days-css-016
+[100-days-css-023](https://codepen.io/fatihydrm/embed/gOGdPVZ/?theme-id=modal#result-box)
 
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/147696356-e889a75d-313d-48cc-9021-599a736f1006.png)
 
-
-100-days-css-017
-
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/147698034-a5aee132-8ce3-4ea1-8f9b-c262156eb68d.png)
-
-
-100-days-css-018
-
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/148061602-d8b9bb1c-6316-49b1-8c02-10f53027599c.png)
-
-
-100-days-css-019
-
-![Screenshot_3](https://user-images.githubusercontent.com/20463385/148265453-da7e2603-7f07-4325-9782-66794f69a929.png)
-
-
-100-days-css-020
-
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/148294875-102cb1fd-4aa8-41d3-ae87-26d39d6e3384.png)
-
-
-100-days-css-021
-
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/148411835-eae57ae7-b8d6-4382-9c53-1fa071d845b4.png)
-
-
-100-days-css-022
-
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/148590494-ddb81ab6-6774-4f91-a25b-7f3f738acfc7.png)
-
-
-100-days-css-023
-
-![Screenshot_2](https://user-images.githubusercontent.com/20463385/148656635-d2c29706-5b9e-4ae0-b0b4-787cdf0e9bd8.png)
-
-
-100-days-css-024
-
-![Screenshot_1](https://user-images.githubusercontent.com/20463385/148656645-ca376ee3-86f1-423b-a50b-1c1520b949cc.png)
+[100-days-css-024](https://codepen.io/fatihydrm/embed/VwMGaOJ/?theme-id=modal#result-box)
