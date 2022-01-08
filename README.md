@@ -1,6 +1,4 @@
-100-days-css-001
-
-https://codepen.io/fatihydrm/embed/qBPBjOq/?theme-id=modal#result-box
+[100-days-css-001](https://codepen.io/fatihydrm/embed/qBPBjOq/?theme-id=modal#result-box)
 
 
 100-days-css-002
