@@ -106,3 +106,13 @@
 100-days-css-022
 
 ![Screenshot_1](https://user-images.githubusercontent.com/20463385/148590494-ddb81ab6-6774-4f91-a25b-7f3f738acfc7.png)
+
+
+100-days-css-023
+
+![Screenshot_2](https://user-images.githubusercontent.com/20463385/148656635-d2c29706-5b9e-4ae0-b0b4-787cdf0e9bd8.png)
+
+
+100-days-css-024
+
+![Screenshot_1](https://user-images.githubusercontent.com/20463385/148656645-ca376ee3-86f1-423b-a50b-1c1520b949cc.png)
