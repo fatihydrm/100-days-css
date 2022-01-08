@@ -1,4 +1,4 @@
-[100-days-css-001](https://codepen.io/fatihydrm/embed/qBPBjOq/?theme-id=modal#result-box)[100-days-css-002](https://codepen.io/fatihydrm/embed/dyVyReJ/?theme-id=modal#result-box)
+[100-days-css-001](https://codepen.io/fatihydrm/embed/qBPBjOq/?theme-id=modal#result-box)  [100-days-css-002](https://codepen.io/fatihydrm/embed/dyVyReJ/?theme-id=modal#result-box)
 
 
 [100-days-css-003](https://codepen.io/fatihydrm/embed/abLzdow/?theme-id=modal#result-box)
