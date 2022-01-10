@@ -22,3 +22,4 @@
 [100-days-css-022](https://codepen.io/fatihydrm/embed/abLjYjb/?theme-id=modal#result-box)   
 [100-days-css-023](https://codepen.io/fatihydrm/embed/gOGdPVZ/?theme-id=modal#result-box)   
 [100-days-css-024](https://codepen.io/fatihydrm/embed/VwMGaOJ/?theme-id=modal#result-box)   
+[100-days-css-025](https://codepen.io/fatihydrm/embed/Exweepy/?theme-id=modal#result-box)   
