@@ -132,7 +132,7 @@ body {
 }
 
 .box .container .back > .line-box .line {
-  width: 8px;
+  width: 16px;
   height: 3px;
   background: #4b4841;
   position: relative;
@@ -144,71 +144,71 @@ body {
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(2) {
-  width: 3px;
-}
-
-.box .container .back > .line-box .line:nth-last-of-type(3) {
-  width: 2px;
-}
-
-.box .container .back > .line-box .line:nth-last-of-type(4) {
-  width: 16px;
-}
-
-.box .container .back > .line-box .line:nth-last-of-type(5) {
-  width: 22px;
-}
-
-.box .container .back > .line-box .line:nth-last-of-type(6) {
   width: 12px;
 }
 
-.box .container .back > .line-box .line:nth-last-of-type(7) {
-  width: 19px;
-}
-
-.box .container .back > .line-box .line:nth-last-of-type(8) {
-  width: 25px;
-}
-
-.box .container .back > .line-box .line:nth-last-of-type(9) {
-  width: 10px;
-}
-
-.box .container .back > .line-box .line:nth-last-of-type(1) {
-  left: 11px;
-}
-
-.box .container .back > .line-box .line:nth-last-of-type(2) {
-  left: 4px;
-}
-
 .box .container .back > .line-box .line:nth-last-of-type(3) {
-  left: 94px;
+  width: 1px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(4) {
-  left: 45px;
+  width: 1px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(5) {
-  left: 100px;
+  width: 11px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(6) {
-  left: 16px;
+  width: 21px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(7) {
-  left: 9px;
+  width: 9px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(8) {
-  left: 76px;
+  width: 19px;
 }
 
 .box .container .back > .line-box .line:nth-last-of-type(9) {
-  left: 98px;
+  width: 12px;
+}
+
+.box .container .back > .line-box .line:nth-last-of-type(1) {
+  left: 74px;
+}
+
+.box .container .back > .line-box .line:nth-last-of-type(2) {
+  left: 58px;
+}
+
+.box .container .back > .line-box .line:nth-last-of-type(3) {
+  left: 50px;
+}
+
+.box .container .back > .line-box .line:nth-last-of-type(4) {
+  left: 81px;
+}
+
+.box .container .back > .line-box .line:nth-last-of-type(5) {
+  left: 87px;
+}
+
+.box .container .back > .line-box .line:nth-last-of-type(6) {
+  left: 20px;
+}
+
+.box .container .back > .line-box .line:nth-last-of-type(7) {
+  left: 4px;
+}
+
+.box .container .back > .line-box .line:nth-last-of-type(8) {
+  left: 4px;
+}
+
+.box .container .back > .line-box .line:nth-last-of-type(9) {
+  left: 48px;
 }
 
 .box .container .back > .line-box .line:not(:last-of-type) {
