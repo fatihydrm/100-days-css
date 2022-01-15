@@ -71,18 +71,18 @@ body {
 .box .text .a1 {
   fill: #ffffff;
   stroke-width: 6;
-  animation: fill 1s ease-in-out both;
+  animation: fill 1s ease-in-out both .3s;
 }
 
 .box .text .a2 {
   fill: none;
   stroke-width: 12;
-  animation: fill 1.5s ease-in-out both;
+  animation: fill 1.5s ease-in-out both .3s;
 }
 
 .box .text .a3 {
   fill: none;
   stroke-width: 18;
-  animation: fill 2s ease-in-out both;
+  animation: fill 2s ease-in-out both .3s;
 }
 /*# sourceMappingURL=style.css.map */
