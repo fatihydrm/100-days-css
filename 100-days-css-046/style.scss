@@ -1,3 +1,10 @@
+$height: 200px;
+$circle: 6;
+$dot: 12;
+$radius: 100;
+$angle: 360 / $dot;
+$dark-color: #222;
+$white:#fff;
 * {
   margin: 0;
   padding: 0;
@@ -23,13 +30,12 @@ body {
   justify-content: center;
   align-items: center;
 }
-$height: 280px;
 .box {
   width: 400px;
   height: 400px;
   box-shadow: 1px 2px 10px 0px rgba(0, 0, 0, 0.3);
-  background: #222;
-  color: #fff;
+  background: $dark-color;
+  color: $white;
   position: relative;
   flex-wrap: wrap;
   border-radius: 3px;
@@ -44,16 +50,5 @@ $height: 280px;
     place-items: center;
     position: relative;
     background: #111;
-
-    .circle {
-      width: 10px;
-      height: 10px;
-      background: #fff;
-      border-radius: 50px;
-      position: absolute;
-      &.circle-1{
-        top: 0;
-      }
-    }
   }
 }

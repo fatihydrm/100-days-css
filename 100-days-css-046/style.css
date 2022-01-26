@@ -40,24 +40,12 @@ body {
 }
 
 .box .container {
-  width: 280px;
-  height: 280px;
+  width: 200px;
+  height: 200px;
   border-radius: 100%;
   display: grid;
   place-items: center;
   position: relative;
   background: #111;
-}
-
-.box .container .circle {
-  width: 10px;
-  height: 10px;
-  background: #fff;
-  border-radius: 50px;
-  position: absolute;
-}
-
-.box .container .circle.circle-1 {
-  top: 0;
 }
 /*# sourceMappingURL=style.css.map */
