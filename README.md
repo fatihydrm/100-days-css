@@ -45,3 +45,4 @@
 [100-days-css-045](https://codepen.io/fatihydrm/embed/GROKRQq/?theme-id=modal#result-box)  
 [100-days-css-046](https://codepen.io/fatihydrm/embed/wvPaKjv/?theme-id=modal#result-box)  
 [100-days-css-047](https://codepen.io/fatihydrm/embed/MWOwKMz/?theme-id=modal#result-box)  
+[100-days-css-048](https://codepen.io/fatihydrm/embed/LYOpexg/?theme-id=modal#result-box)  
