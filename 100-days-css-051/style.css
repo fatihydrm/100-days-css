@@ -33,66 +33,143 @@ body {
   background: #222;
   color: #fff;
   display: flex;
-  align-content: center;
+  align-items: center;
   justify-content: center;
+  flex-direction: column;
   position: relative;
   border-radius: 2px;
   flex-wrap: wrap;
   overflow: hidden;
 }
 
-.box .egg {
-  width: 100px;
-  height: 130px;
+.box .center {
+  width: 160px;
+  height: 50px;
   background: #fff;
-  border-top-left-radius: 120px 200px;
-  border-top-right-radius: 120px 200px;
-  border-bottom-left-radius: 120px 120px;
-  border-bottom-right-radius: 120px 120px;
-  position: absolute;
-  transform-origin: 50% 80%;
-  top: -135px;
-  animation: eggAnimate 3s ease-in-out infinite;
+  border-radius: 2px;
+  color: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translate(0, -20px);
 }
 
-@keyframes eggAnimate {
-  0% {
-    transform: translate(0, 0) scale(1);
+.box .center .c {
+  position: relative;
+  flex: 1;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box .center .c .n {
+  font-size: 34px;
+  user-select: none;
+}
+
+.box .center .c .n:first-of-type {
+  opacity: 1;
+  font-weight: 500;
+}
+
+.box .center .c.c-4 {
+  animation: nItemAnimate 10s steps(1) infinite;
+}
+
+.box .center .c.c-3 {
+  animation: nItemAnimate 100s steps(1) infinite;
+}
+
+.box .center .c.c-2 {
+  animation: nItemAnimate 1000s steps(1) infinite;
+}
+
+.box .center .c.c-1 {
+  animation: nItemAnimate 10000s steps(1) infinite;
+}
+
+@keyframes nItemAnimate {
+  00% {
+    transform: translateY(0px);
   }
-  25% {
-    transform: translate(0, 280px) scale(1, 0.8);
+  10% {
+    transform: translateY(-46px);
+  }
+  20% {
+    transform: translateY(-92px);
   }
   30% {
-    transform: translate(0, 260px) scale(1, 1.05);
+    transform: translateY(-138px);
   }
-  35% {
-    transform: translate(0, 270px) scale(1);
-  }
-  40%,
-  45% {
-    transform: translate(0, 270px) scale(1) rotate(0deg);
+  40% {
+    transform: translateY(-184px);
   }
   50% {
-    transform: translate(0, 270px) scale(1) rotate(5deg);
-  }
-  55% {
-    transform: translate(0, 270px) scale(1) rotate(-5deg);
+    transform: translateY(-230px);
   }
   60% {
-    transform: translate(0, 270px) scale(1) rotate(5deg);
+    transform: translateY(-276px);
   }
-  65%,
   70% {
-    transform: translate(0, 270px) scale(1) rotate(0deg);
-  }
-  75% {
-    transform: translate(0, 280px) scale(1, 0.8) rotate(0deg);
+    transform: translateY(-322px);
   }
   80% {
-    transform: translate(0, 260px) scale(1) rotate(0deg);
+    transform: translateY(-368px);
   }
-  100% {
-    transform: translate(0, 550px) scale(1) rotate(0deg);
+  90% {
+    transform: translateY(-414px);
   }
+}
+
+.box label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  margin-top: 80px;
+  cursor: pointer;
+  z-index: 999;
+}
+
+.box label > i {
+  position: absolute;
+  font-size: 30px;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.box label > i.fa-play {
+  opacity: 0;
+  visibility: hidden;
+  transform: scale(0.7);
+}
+
+.box label > i.fa-pause {
+  opacity: 1;
+  visibility: visible;
+  transform: scale(1);
+}
+
+.box input[type="checkbox"] {
+  display: none;
+}
+
+.box input[type="checkbox"]:checked ~ label > .fa-play {
+  opacity: 1;
+  visibility: visible;
+  transform: scale(1);
+}
+
+.box input[type="checkbox"]:checked ~ label > .fa-pause {
+  opacity: 0;
+  visibility: hidden;
+  transform: scale(0.7);
+}
+
+.box input[type="checkbox"]:checked ~ .center > .c {
+  animation-play-state: paused;
 }
 /*# sourceMappingURL=style.css.map */
