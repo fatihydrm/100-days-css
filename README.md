@@ -50,3 +50,4 @@
 [100-days-css-050](https://codepen.io/fatihydrm/embed/wvPMxzX/?theme-id=modal#result-box)  
 [100-days-css-051](https://codepen.io/fatihydrm/embed/ExbyBaG/?theme-id=modal#result-box)  
 [100-days-css-052](https://codepen.io/fatihydrm/embed/ExbgjNo/?theme-id=modal#result-box)  
+[100-days-css-053](https://codepen.io/fatihydrm/embed/podNEOX/?theme-id=modal#result-box)  
