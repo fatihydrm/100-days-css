@@ -31,6 +31,7 @@ body {
   display: flex;
   justify-content: center;
   position: relative;
+  overflow: hidden;
 
   input[type="checkbox"] {
     display: none;
