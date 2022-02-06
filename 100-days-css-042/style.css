@@ -60,164 +60,8 @@ body {
 }
 
 .box .container .star.star-1 {
-  left: 6px;
-  top: 123px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 19s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-2 {
-  left: 3px;
-  top: 283px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 18s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-3 {
-  left: 30px;
-  top: 210px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 6s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-4 {
-  left: 268px;
-  top: 246px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 6s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-5 {
-  left: 41px;
-  top: 43px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 20s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-6 {
-  left: 66px;
-  top: 158px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-7 {
-  left: 63px;
-  top: 284px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 19s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-8 {
-  left: 110px;
-  top: 7px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 2s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-9 {
-  left: 137px;
-  top: 250px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 8s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-10 {
-  left: 10px;
-  top: 80px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 13s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-11 {
-  left: 85px;
-  top: 199px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 9s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-12 {
-  left: 7px;
-  top: 112px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 2s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-13 {
-  left: 257px;
-  top: 24px;
+  left: 46px;
+  top: 14px;
   animation: 1s opacity alternate infinite;
   animation-delay: 5s;
 }
@@ -228,61 +72,9 @@ body {
   }
 }
 
-.box .container .star.star-14 {
-  left: 235px;
-  top: 70px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-15 {
-  left: 131px;
-  top: 170px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 2s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-16 {
-  left: 225px;
-  top: 281px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-17 {
-  left: 116px;
-  top: 264px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 9s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-18 {
-  left: 269px;
-  top: 109px;
+.box .container .star.star-2 {
+  left: 217px;
+  top: 267px;
   animation: 2s opacity alternate infinite;
   animation-delay: 17s;
 }
@@ -293,87 +85,9 @@ body {
   }
 }
 
-.box .container .star.star-19 {
-  left: 260px;
-  top: 18px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 17s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-20 {
-  left: 229px;
-  top: 73px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 15s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-21 {
-  left: 32px;
-  top: 140px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 14s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-22 {
-  left: 207px;
-  top: 299px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-23 {
-  left: 253px;
-  top: 216px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 13s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-24 {
-  left: 229px;
-  top: 10px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 14s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-25 {
-  left: 30px;
-  top: 116px;
+.box .container .star.star-3 {
+  left: 45px;
+  top: 224px;
   animation: 1s opacity alternate infinite;
   animation-delay: 10s;
 }
@@ -384,10 +98,75 @@ body {
   }
 }
 
-.box .container .star.star-26 {
-  left: 81px;
-  top: 84px;
+.box .container .star.star-4 {
+  left: 266px;
+  top: 168px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 20s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-5 {
+  left: 121px;
+  top: 112px;
   animation: 2s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-6 {
+  left: 62px;
+  top: 20px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 13s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-7 {
+  left: 52px;
+  top: 201px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 17s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-8 {
+  left: 85px;
+  top: 97px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 9s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-9 {
+  left: 232px;
+  top: 75px;
+  animation: 1s opacity alternate infinite;
   animation-delay: 5s;
 }
 
@@ -397,11 +176,11 @@ body {
   }
 }
 
-.box .container .star.star-27 {
-  left: 51px;
-  top: 113px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 2s;
+.box .container .star.star-10 {
+  left: 266px;
+  top: 165px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 8s;
 }
 
 @keyframes opacity {
@@ -410,9 +189,22 @@ body {
   }
 }
 
-.box .container .star.star-28 {
-  left: 147px;
-  top: 160px;
+.box .container .star.star-11 {
+  left: 287px;
+  top: 234px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-12 {
+  left: 57px;
+  top: 214px;
   animation: 1s opacity alternate infinite;
   animation-delay: 15s;
 }
@@ -423,9 +215,217 @@ body {
   }
 }
 
+.box .container .star.star-13 {
+  left: 139px;
+  top: 100px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 7s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-14 {
+  left: 84px;
+  top: 220px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 14s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-15 {
+  left: 252px;
+  top: 173px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 11s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-16 {
+  left: 263px;
+  top: 149px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 12s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-17 {
+  left: 298px;
+  top: 270px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 8s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-18 {
+  left: 16px;
+  top: 72px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 9s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-19 {
+  left: 249px;
+  top: 213px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 6s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-20 {
+  left: 220px;
+  top: 132px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 17s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-21 {
+  left: 226px;
+  top: 143px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-22 {
+  left: 96px;
+  top: 260px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-23 {
+  left: 155px;
+  top: 17px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 6s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-24 {
+  left: 216px;
+  top: 193px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 4s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-25 {
+  left: 192px;
+  top: 119px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-26 {
+  left: 295px;
+  top: 249px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 16s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-27 {
+  left: 225px;
+  top: 62px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 20s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-28 {
+  left: 298px;
+  top: 235px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 16s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
 .box .container .star.star-29 {
-  left: 100px;
-  top: 99px;
+  left: 44px;
+  top: 249px;
   animation: 1s opacity alternate infinite;
   animation-delay: 11s;
 }
@@ -437,73 +437,8 @@ body {
 }
 
 .box .container .star.star-30 {
-  left: 85px;
-  top: 28px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 8s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-31 {
-  left: 71px;
-  top: 278px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 12s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-32 {
-  left: 197px;
-  top: 198px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 12s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-33 {
-  left: 215px;
-  top: 58px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-34 {
-  left: 65px;
-  top: 75px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 12s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-35 {
-  left: 245px;
-  top: 19px;
+  left: 41px;
+  top: 211px;
   animation: 2s opacity alternate infinite;
   animation-delay: 18s;
 }
@@ -514,101 +449,10 @@ body {
   }
 }
 
-.box .container .star.star-36 {
-  left: 154px;
-  top: 231px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-37 {
-  left: 298px;
-  top: 119px;
+.box .container .star.star-31 {
+  left: 228px;
+  top: 183px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 3s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-38 {
-  left: 251px;
-  top: 278px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 19s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-39 {
-  left: 137px;
-  top: 138px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 12s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-40 {
-  left: 172px;
-  top: 235px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 17s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-41 {
-  left: 36px;
-  top: 241px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 14s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-42 {
-  left: 73px;
-  top: 273px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 19s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-43 {
-  left: 73px;
-  top: 215px;
-  animation: 2s opacity alternate infinite;
   animation-delay: 15s;
 }
 
@@ -618,11 +462,11 @@ body {
   }
 }
 
-.box .container .star.star-44 {
-  left: 95px;
-  top: 22px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 17s;
+.box .container .star.star-32 {
+  left: 61px;
+  top: 147px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 11s;
 }
 
 @keyframes opacity {
@@ -631,11 +475,11 @@ body {
   }
 }
 
-.box .container .star.star-45 {
-  left: 202px;
-  top: 95px;
+.box .container .star.star-33 {
+  left: 157px;
+  top: 135px;
   animation: 2s opacity alternate infinite;
-  animation-delay: 10s;
+  animation-delay: 13s;
 }
 
 @keyframes opacity {
@@ -644,11 +488,11 @@ body {
   }
 }
 
-.box .container .star.star-46 {
-  left: 191px;
-  top: 295px;
+.box .container .star.star-34 {
+  left: 101px;
+  top: 246px;
   animation: 2s opacity alternate infinite;
-  animation-delay: 5s;
+  animation-delay: 4s;
 }
 
 @keyframes opacity {
@@ -657,9 +501,9 @@ body {
   }
 }
 
-.box .container .star.star-47 {
-  left: 169px;
-  top: 80px;
+.box .container .star.star-35 {
+  left: 285px;
+  top: 148px;
   animation: 1s opacity alternate infinite;
   animation-delay: 9s;
 }
@@ -670,256 +514,9 @@ body {
   }
 }
 
-.box .container .star.star-48 {
-  left: 83px;
-  top: 202px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-49 {
-  left: 77px;
-  top: 278px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 17s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-50 {
-  left: 275px;
-  top: 242px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 20s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-51 {
-  left: 263px;
-  top: 197px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 10s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-52 {
-  left: 248px;
-  top: 214px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 10s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-53 {
-  left: 74px;
-  top: 187px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 17s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-54 {
-  left: 208px;
-  top: 151px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 20s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-55 {
-  left: 24px;
-  top: 228px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-56 {
-  left: 272px;
-  top: 250px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-57 {
-  left: 147px;
-  top: 197px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-58 {
-  left: 201px;
-  top: 189px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-59 {
-  left: 97px;
-  top: 257px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-60 {
-  left: 190px;
-  top: 201px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 12s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-61 {
-  left: 100px;
-  top: 38px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 12s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-62 {
-  left: 212px;
-  top: 91px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 13s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-63 {
-  left: 89px;
-  top: 85px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 3s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-64 {
-  left: 211px;
-  top: 101px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 4s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-65 {
-  left: 189px;
-  top: 126px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-66 {
-  left: 206px;
-  top: 150px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-67 {
-  left: 67px;
-  top: 169px;
+.box .container .star.star-36 {
+  left: 284px;
+  top: 152px;
   animation: 1s opacity alternate infinite;
   animation-delay: 15s;
 }
@@ -930,9 +527,425 @@ body {
   }
 }
 
+.box .container .star.star-37 {
+  left: 230px;
+  top: 282px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 20s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-38 {
+  left: 180px;
+  top: 230px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 6s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-39 {
+  left: 158px;
+  top: 108px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 3s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-40 {
+  left: 186px;
+  top: 22px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 4s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-41 {
+  left: 117px;
+  top: 69px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 5s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-42 {
+  left: 128px;
+  top: 98px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 20s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-43 {
+  left: 122px;
+  top: 32px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-44 {
+  left: 192px;
+  top: 71px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 16s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-45 {
+  left: 160px;
+  top: 121px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 12s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-46 {
+  left: 165px;
+  top: 31px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 8s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-47 {
+  left: 112px;
+  top: 226px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 15s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-48 {
+  left: 125px;
+  top: 244px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-49 {
+  left: 189px;
+  top: 55px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 13s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-50 {
+  left: 197px;
+  top: 85px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 12s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-51 {
+  left: 129px;
+  top: 19px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 12s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-52 {
+  left: 10px;
+  top: 220px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 7s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-53 {
+  left: 230px;
+  top: 135px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 11s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-54 {
+  left: 1px;
+  top: 77px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 6s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-55 {
+  left: 125px;
+  top: 49px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 16s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-56 {
+  left: 49px;
+  top: 239px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 4s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-57 {
+  left: 220px;
+  top: 187px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 7s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-58 {
+  left: 7px;
+  top: 81px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 3s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-59 {
+  left: 230px;
+  top: 127px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-60 {
+  left: 40px;
+  top: 137px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 2s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-61 {
+  left: 17px;
+  top: 10px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 2s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-62 {
+  left: 43px;
+  top: 155px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-63 {
+  left: 5px;
+  top: 225px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-64 {
+  left: 112px;
+  top: 43px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 11s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-65 {
+  left: 126px;
+  top: 248px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 10s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-66 {
+  left: 264px;
+  top: 178px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 11s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-67 {
+  left: 152px;
+  top: 242px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 4s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
 .box .container .star.star-68 {
-  left: 97px;
-  top: 195px;
+  left: 299px;
+  top: 165px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-69 {
+  left: 74px;
+  top: 203px;
   animation: 1s opacity alternate infinite;
   animation-delay: 10s;
 }
@@ -943,22 +956,9 @@ body {
   }
 }
 
-.box .container .star.star-69 {
-  left: 3px;
-  top: 23px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 19s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
 .box .container .star.star-70 {
-  left: 207px;
-  top: 94px;
+  left: 249px;
+  top: 89px;
   animation: 1s opacity alternate infinite;
   animation-delay: 10s;
 }
@@ -970,10 +970,10 @@ body {
 }
 
 .box .container .star.star-71 {
-  left: 75px;
-  top: 42px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 6s;
+  left: 28px;
+  top: 57px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 2s;
 }
 
 @keyframes opacity {
@@ -983,10 +983,10 @@ body {
 }
 
 .box .container .star.star-72 {
-  left: 5px;
-  top: 185px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 9s;
+  left: 107px;
+  top: 32px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 13s;
 }
 
 @keyframes opacity {
@@ -996,229 +996,8 @@ body {
 }
 
 .box .container .star.star-73 {
-  left: 124px;
-  top: 112px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 19s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-74 {
-  left: 167px;
-  top: 93px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 9s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-75 {
-  left: 69px;
-  top: 295px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-76 {
-  left: 158px;
-  top: 255px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 13s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-77 {
-  left: 290px;
-  top: 12px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 18s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-78 {
-  left: 204px;
+  left: 94px;
   top: 168px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 12s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-79 {
-  left: 108px;
-  top: 108px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-80 {
-  left: 81px;
-  top: 285px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 15s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-81 {
-  left: 81px;
-  top: 268px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 9s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-82 {
-  left: 175px;
-  top: 200px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 12s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-83 {
-  left: 114px;
-  top: 52px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 13s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-84 {
-  left: 53px;
-  top: 62px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 19s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-85 {
-  left: 120px;
-  top: 107px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-86 {
-  left: 54px;
-  top: 54px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 9s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-87 {
-  left: 260px;
-  top: 171px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 20s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-88 {
-  left: 193px;
-  top: 107px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 9s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-89 {
-  left: 104px;
-  top: 235px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 14s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-90 {
-  left: 53px;
-  top: 260px;
   animation: 1s opacity alternate infinite;
   animation-delay: 5s;
 }
@@ -1229,11 +1008,232 @@ body {
   }
 }
 
-.box .container .star.star-91 {
-  left: 2px;
-  top: 268px;
+.box .container .star.star-74 {
+  left: 13px;
+  top: 270px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 10s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-75 {
+  left: 218px;
+  top: 153px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 3s;
+  animation-delay: 5s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-76 {
+  left: 62px;
+  top: 271px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-77 {
+  left: 260px;
+  top: 184px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 8s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-78 {
+  left: 96px;
+  top: 128px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 20s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-79 {
+  left: 215px;
+  top: 136px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-80 {
+  left: 68px;
+  top: 174px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 6s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-81 {
+  left: 54px;
+  top: 2px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 12s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-82 {
+  left: 116px;
+  top: 65px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 8s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-83 {
+  left: 11px;
+  top: 135px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 20s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-84 {
+  left: 44px;
+  top: 60px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-85 {
+  left: 293px;
+  top: 214px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 6s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-86 {
+  left: 290px;
+  top: 68px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 19s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-87 {
+  left: 206px;
+  top: 48px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 17s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-88 {
+  left: 159px;
+  top: 225px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 9s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-89 {
+  left: 206px;
+  top: 55px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 11s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-90 {
+  left: 138px;
+  top: 140px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-91 {
+  left: 232px;
+  top: 60px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 5s;
 }
 
 @keyframes opacity {
@@ -1243,8 +1243,8 @@ body {
 }
 
 .box .container .star.star-92 {
-  left: 82px;
-  top: 67px;
+  left: 286px;
+  top: 91px;
   animation: 2s opacity alternate infinite;
   animation-delay: 8s;
 }
@@ -1256,10 +1256,10 @@ body {
 }
 
 .box .container .star.star-93 {
-  left: 232px;
-  top: 187px;
+  left: 57px;
+  top: 217px;
   animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
+  animation-delay: 16s;
 }
 
 @keyframes opacity {
@@ -1269,10 +1269,10 @@ body {
 }
 
 .box .container .star.star-94 {
-  left: 216px;
-  top: 240px;
+  left: 130px;
+  top: 286px;
   animation: 2s opacity alternate infinite;
-  animation-delay: 12s;
+  animation-delay: 4s;
 }
 
 @keyframes opacity {
@@ -1282,34 +1282,8 @@ body {
 }
 
 .box .container .star.star-95 {
-  left: 229px;
-  top: 102px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 13s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-96 {
-  left: 157px;
-  top: 47px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-97 {
-  left: 15px;
-  top: 259px;
+  left: 88px;
+  top: 189px;
   animation: 1s opacity alternate infinite;
   animation-delay: 19s;
 }
@@ -1320,11 +1294,37 @@ body {
   }
 }
 
-.box .container .star.star-98 {
-  left: 138px;
-  top: 283px;
+.box .container .star.star-96 {
+  left: 280px;
+  top: 131px;
   animation: 2s opacity alternate infinite;
-  animation-delay: 9s;
+  animation-delay: 4s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-97 {
+  left: 67px;
+  top: 180px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 11s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-98 {
+  left: 213px;
+  top: 230px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 5s;
 }
 
 @keyframes opacity {
@@ -1334,8 +1334,21 @@ body {
 }
 
 .box .container .star.star-99 {
-  left: 281px;
-  top: 161px;
+  left: 220px;
+  top: 151px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 12s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-100 {
+  left: 61px;
+  top: 244px;
   animation: 2s opacity alternate infinite;
   animation-delay: 5s;
 }
@@ -1346,48 +1359,9 @@ body {
   }
 }
 
-.box .container .star.star-100 {
-  left: 38px;
-  top: 107px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
 .box .container .star.star-101 {
-  left: 114px;
-  top: 239px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-102 {
-  left: 290px;
-  top: 284px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 13s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-103 {
-  left: 54px;
-  top: 139px;
+  left: 117px;
+  top: 270px;
   animation: 2s opacity alternate infinite;
   animation-delay: 10s;
 }
@@ -1398,11 +1372,37 @@ body {
   }
 }
 
-.box .container .star.star-104 {
-  left: 141px;
-  top: 88px;
+.box .container .star.star-102 {
+  left: 44px;
+  top: 2px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 12s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-103 {
+  left: 290px;
+  top: 39px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 13s;
+  animation-delay: 19s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-104 {
+  left: 187px;
+  top: 35px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 2s;
 }
 
 @keyframes opacity {
@@ -1412,10 +1412,10 @@ body {
 }
 
 .box .container .star.star-105 {
-  left: 40px;
-  top: 219px;
+  left: 156px;
+  top: 28px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 17s;
+  animation-delay: 12s;
 }
 
 @keyframes opacity {
@@ -1425,8 +1425,8 @@ body {
 }
 
 .box .container .star.star-106 {
-  left: 35px;
-  top: 149px;
+  left: 14px;
+  top: 100px;
   animation: 1s opacity alternate infinite;
   animation-delay: 13s;
 }
@@ -1438,10 +1438,10 @@ body {
 }
 
 .box .container .star.star-107 {
-  left: 6px;
-  top: 34px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 8s;
+  left: 185px;
+  top: 289px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 18s;
 }
 
 @keyframes opacity {
@@ -1451,10 +1451,10 @@ body {
 }
 
 .box .container .star.star-108 {
-  left: 159px;
-  top: 82px;
+  left: 145px;
+  top: 67px;
   animation: 2s opacity alternate infinite;
-  animation-delay: 3s;
+  animation-delay: 11s;
 }
 
 @keyframes opacity {
@@ -1464,10 +1464,10 @@ body {
 }
 
 .box .container .star.star-109 {
-  left: 212px;
-  top: 19px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 9s;
+  left: 91px;
+  top: 285px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 18s;
 }
 
 @keyframes opacity {
@@ -1477,10 +1477,10 @@ body {
 }
 
 .box .container .star.star-110 {
-  left: 76px;
-  top: 65px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 13s;
+  left: 267px;
+  top: 276px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 18s;
 }
 
 @keyframes opacity {
@@ -1490,10 +1490,10 @@ body {
 }
 
 .box .container .star.star-111 {
-  left: 251px;
-  top: 289px;
+  left: 55px;
+  top: 119px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 5s;
+  animation-delay: 17s;
 }
 
 @keyframes opacity {
@@ -1503,73 +1503,8 @@ body {
 }
 
 .box .container .star.star-112 {
-  left: 86px;
-  top: 157px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-113 {
-  left: 144px;
-  top: 215px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 2s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-114 {
-  left: 255px;
-  top: 166px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 15s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-115 {
-  left: 216px;
-  top: 121px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-116 {
-  left: 89px;
-  top: 192px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-117 {
-  left: 238px;
-  top: 233px;
+  left: 219px;
+  top: 92px;
   animation: 1s opacity alternate infinite;
   animation-delay: 14s;
 }
@@ -1580,11 +1515,76 @@ body {
   }
 }
 
-.box .container .star.star-118 {
-  left: 78px;
-  top: 78px;
+.box .container .star.star-113 {
+  left: 94px;
+  top: 194px;
   animation: 2s opacity alternate infinite;
-  animation-delay: 17s;
+  animation-delay: 3s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-114 {
+  left: 112px;
+  top: 83px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 10s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-115 {
+  left: 248px;
+  top: 105px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 7s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-116 {
+  left: 199px;
+  top: 132px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 20s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-117 {
+  left: 201px;
+  top: 279px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 19s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-118 {
+  left: 168px;
+  top: 81px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 8s;
 }
 
 @keyframes opacity {
@@ -1594,10 +1594,10 @@ body {
 }
 
 .box .container .star.star-119 {
-  left: 155px;
-  top: 250px;
+  left: 218px;
+  top: 133px;
   animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
+  animation-delay: 12s;
 }
 
 @keyframes opacity {
@@ -1607,10 +1607,10 @@ body {
 }
 
 .box .container .star.star-120 {
-  left: 154px;
-  top: 216px;
+  left: 83px;
+  top: 90px;
   animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
+  animation-delay: 3s;
 }
 
 @keyframes opacity {
@@ -1620,10 +1620,10 @@ body {
 }
 
 .box .container .star.star-121 {
-  left: 86px;
-  top: 200px;
+  left: 29px;
+  top: 236px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 9s;
+  animation-delay: 11s;
 }
 
 @keyframes opacity {
@@ -1633,10 +1633,10 @@ body {
 }
 
 .box .container .star.star-122 {
-  left: 245px;
-  top: 36px;
+  left: 60px;
+  top: 165px;
   animation: 2s opacity alternate infinite;
-  animation-delay: 1s;
+  animation-delay: 18s;
 }
 
 @keyframes opacity {
@@ -1646,10 +1646,10 @@ body {
 }
 
 .box .container .star.star-123 {
-  left: 286px;
-  top: 244px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 16s;
+  left: 61px;
+  top: 257px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 3s;
 }
 
 @keyframes opacity {
@@ -1659,47 +1659,8 @@ body {
 }
 
 .box .container .star.star-124 {
-  left: 58px;
-  top: 233px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 9s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-125 {
-  left: 269px;
-  top: 121px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 20s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-126 {
-  left: 94px;
-  top: 198px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 20s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-127 {
-  left: 208px;
-  top: 81px;
+  left: 264px;
+  top: 188px;
   animation: 1s opacity alternate infinite;
   animation-delay: 13s;
 }
@@ -1710,11 +1671,50 @@ body {
   }
 }
 
-.box .container .star.star-128 {
-  left: 103px;
-  top: 47px;
+.box .container .star.star-125 {
+  left: 186px;
+  top: 156px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 9s;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-126 {
+  left: 107px;
+  top: 276px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 2s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-127 {
+  left: 175px;
+  top: 178px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 10s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-128 {
+  left: 86px;
+  top: 286px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 5s;
 }
 
 @keyframes opacity {
@@ -1724,10 +1724,10 @@ body {
 }
 
 .box .container .star.star-129 {
-  left: 172px;
-  top: 180px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
+  left: 213px;
+  top: 264px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 20s;
 }
 
 @keyframes opacity {
@@ -1737,21 +1737,8 @@ body {
 }
 
 .box .container .star.star-130 {
-  left: 170px;
-  top: 157px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 11s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-131 {
-  left: 41px;
-  top: 257px;
+  left: 201px;
+  top: 194px;
   animation: 1s opacity alternate infinite;
   animation-delay: 17s;
 }
@@ -1762,9 +1749,9 @@ body {
   }
 }
 
-.box .container .star.star-132 {
-  left: 25px;
-  top: 170px;
+.box .container .star.star-131 {
+  left: 290px;
+  top: 90px;
   animation: 2s opacity alternate infinite;
   animation-delay: 20s;
 }
@@ -1775,9 +1762,22 @@ body {
   }
 }
 
+.box .container .star.star-132 {
+  left: 250px;
+  top: 181px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
 .box .container .star.star-133 {
-  left: 172px;
-  top: 238px;
+  left: 11px;
+  top: 172px;
   animation: 1s opacity alternate infinite;
   animation-delay: 16s;
 }
@@ -1789,10 +1789,10 @@ body {
 }
 
 .box .container .star.star-134 {
-  left: 142px;
-  top: 231px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 7s;
+  left: 49px;
+  top: 34px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 14s;
 }
 
 @keyframes opacity {
@@ -1802,10 +1802,10 @@ body {
 }
 
 .box .container .star.star-135 {
-  left: 222px;
-  top: 102px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 13s;
+  left: 80px;
+  top: 81px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 14s;
 }
 
 @keyframes opacity {
@@ -1815,10 +1815,10 @@ body {
 }
 
 .box .container .star.star-136 {
-  left: 259px;
-  top: 174px;
+  left: 283px;
+  top: 213px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 1s;
+  animation-delay: 2s;
 }
 
 @keyframes opacity {
@@ -1828,9 +1828,9 @@ body {
 }
 
 .box .container .star.star-137 {
-  left: 245px;
-  top: 9px;
-  animation: 2s opacity alternate infinite;
+  left: 246px;
+  top: 38px;
+  animation: 1s opacity alternate infinite;
   animation-delay: 17s;
 }
 
@@ -1841,10 +1841,10 @@ body {
 }
 
 .box .container .star.star-138 {
-  left: 227px;
-  top: 137px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 8s;
+  left: 254px;
+  top: 98px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 14s;
 }
 
 @keyframes opacity {
@@ -1854,8 +1854,21 @@ body {
 }
 
 .box .container .star.star-139 {
-  left: 220px;
-  top: 31px;
+  left: 23px;
+  top: 14px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 11s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-140 {
+  left: 49px;
+  top: 175px;
   animation: 2s opacity alternate infinite;
   animation-delay: 12s;
 }
@@ -1866,24 +1879,11 @@ body {
   }
 }
 
-.box .container .star.star-140 {
-  left: 5px;
-  top: 47px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 8s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
 .box .container .star.star-141 {
-  left: 97px;
-  top: 250px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 16s;
+  left: 168px;
+  top: 229px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 12s;
 }
 
 @keyframes opacity {
@@ -1893,10 +1893,10 @@ body {
 }
 
 .box .container .star.star-142 {
-  left: 222px;
-  top: 67px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 15s;
+  left: 85px;
+  top: 60px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 18s;
 }
 
 @keyframes opacity {
@@ -1906,10 +1906,10 @@ body {
 }
 
 .box .container .star.star-143 {
-  left: 8px;
-  top: 266px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 8s;
+  left: 200px;
+  top: 85px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 15s;
 }
 
 @keyframes opacity {
@@ -1919,204 +1919,9 @@ body {
 }
 
 .box .container .star.star-144 {
-  left: 256px;
-  top: 105px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 2s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-145 {
-  left: 259px;
-  top: 61px;
+  left: 267px;
+  top: 73px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 17s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-146 {
-  left: 15px;
-  top: 5px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 2s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-147 {
-  left: 16px;
-  top: 70px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-148 {
-  left: 48px;
-  top: 144px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 13s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-149 {
-  left: 266px;
-  top: 22px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-150 {
-  left: 214px;
-  top: 140px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-151 {
-  left: 142px;
-  top: 137px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 17s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-152 {
-  left: 292px;
-  top: 68px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-153 {
-  left: 19px;
-  top: 266px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 18s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-154 {
-  left: 84px;
-  top: 30px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-155 {
-  left: 272px;
-  top: 296px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 10s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-156 {
-  left: 236px;
-  top: 99px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 18s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-157 {
-  left: 53px;
-  top: 153px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-158 {
-  left: 281px;
-  top: 152px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-159 {
-  left: 33px;
-  top: 62px;
-  animation: 2s opacity alternate infinite;
   animation-delay: 4s;
 }
 
@@ -2126,9 +1931,9 @@ body {
   }
 }
 
-.box .container .star.star-160 {
-  left: 300px;
-  top: 168px;
+.box .container .star.star-145 {
+  left: 293px;
+  top: 188px;
   animation: 1s opacity alternate infinite;
   animation-delay: 9s;
 }
@@ -2139,87 +1944,9 @@ body {
   }
 }
 
-.box .container .star.star-161 {
-  left: 76px;
-  top: 16px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 9s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-162 {
-  left: 146px;
-  top: 227px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 11s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-163 {
-  left: 128px;
-  top: 192px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-164 {
-  left: 100px;
-  top: 122px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-165 {
-  left: 177px;
-  top: 224px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-166 {
-  left: 33px;
-  top: 186px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-167 {
-  left: 139px;
-  top: 139px;
+.box .container .star.star-146 {
+  left: 49px;
+  top: 148px;
   animation: 1s opacity alternate infinite;
   animation-delay: 15s;
 }
@@ -2230,126 +1957,9 @@ body {
   }
 }
 
-.box .container .star.star-168 {
-  left: 74px;
-  top: 82px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 3s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-169 {
-  left: 164px;
-  top: 167px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 15s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-170 {
-  left: 113px;
-  top: 187px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-171 {
-  left: 255px;
-  top: 83px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 7s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-172 {
-  left: 124px;
-  top: 249px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-173 {
-  left: 89px;
-  top: 111px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-174 {
-  left: 9px;
-  top: 194px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 15s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-175 {
-  left: 116px;
-  top: 46px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 20s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-176 {
-  left: 100px;
-  top: 160px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 18s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-177 {
-  left: 70px;
-  top: 236px;
+.box .container .star.star-147 {
+  left: 43px;
+  top: 79px;
   animation: 2s opacity alternate infinite;
   animation-delay: 13s;
 }
@@ -2360,112 +1970,8 @@ body {
   }
 }
 
-.box .container .star.star-178 {
-  left: 166px;
-  top: 4px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 19s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-179 {
-  left: 82px;
-  top: 71px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 9s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-180 {
-  left: 212px;
-  top: 17px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 20s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-181 {
-  left: 118px;
-  top: 261px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-182 {
-  left: 135px;
-  top: 259px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 5s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-183 {
-  left: 17px;
-  top: 108px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 15s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-184 {
-  left: 192px;
-  top: 215px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-185 {
-  left: 287px;
-  top: 280px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-186 {
-  left: 14px;
+.box .container .star.star-148 {
+  left: 30px;
   top: 55px;
   animation: 2s opacity alternate infinite;
   animation-delay: 17s;
@@ -2477,127 +1983,10 @@ body {
   }
 }
 
-.box .container .star.star-187 {
-  left: 96px;
-  top: 155px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 1s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-188 {
-  left: 120px;
-  top: 68px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 11s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-189 {
-  left: 213px;
-  top: 250px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 12s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-190 {
-  left: 55px;
-  top: 156px;
-  animation: 1s opacity alternate infinite;
-  animation-delay: 15s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-191 {
+.box .container .star.star-149 {
   left: 119px;
-  top: 129px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 10s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-192 {
-  left: 106px;
-  top: 212px;
+  top: 281px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 13s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-193 {
-  left: 129px;
-  top: 267px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 5s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-194 {
-  left: 176px;
-  top: 181px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 16s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-195 {
-  left: 46px;
-  top: 136px;
-  animation: 2s opacity alternate infinite;
-  animation-delay: 12s;
-}
-
-@keyframes opacity {
-  to {
-    opacity: 0.2;
-  }
-}
-
-.box .container .star.star-196 {
-  left: 203px;
-  top: 206px;
-  animation: 2s opacity alternate infinite;
   animation-delay: 3s;
 }
 
@@ -2607,9 +1996,61 @@ body {
   }
 }
 
-.box .container .star.star-197 {
-  left: 143px;
-  top: 78px;
+.box .container .star.star-150 {
+  left: 150px;
+  top: 2px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-151 {
+  left: 87px;
+  top: 198px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 11s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-152 {
+  left: 32px;
+  top: 98px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 13s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-153 {
+  left: 289px;
+  top: 284px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 15s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-154 {
+  left: 180px;
+  top: 67px;
   animation: 2s opacity alternate infinite;
   animation-delay: 14s;
 }
@@ -2620,11 +2061,11 @@ body {
   }
 }
 
-.box .container .star.star-198 {
-  left: 188px;
-  top: 91px;
+.box .container .star.star-155 {
+  left: 163px;
+  top: 178px;
   animation: 1s opacity alternate infinite;
-  animation-delay: 19s;
+  animation-delay: 12s;
 }
 
 @keyframes opacity {
@@ -2633,9 +2074,22 @@ body {
   }
 }
 
-.box .container .star.star-199 {
-  left: 150px;
-  top: 24px;
+.box .container .star.star-156 {
+  left: 80px;
+  top: 155px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-157 {
+  left: 107px;
+  top: 12px;
   animation: 2s opacity alternate infinite;
   animation-delay: 4s;
 }
@@ -2646,11 +2100,557 @@ body {
   }
 }
 
-.box .container .star.star-200 {
-  left: 283px;
-  top: 268px;
+.box .container .star.star-158 {
+  left: 55px;
+  top: 130px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 13s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-159 {
+  left: 230px;
+  top: 30px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 5s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-160 {
+  left: 122px;
+  top: 96px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 9s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-161 {
+  left: 213px;
+  top: 88px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 8s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-162 {
+  left: 18px;
+  top: 125px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 12s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-163 {
+  left: 250px;
+  top: 77px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-164 {
+  left: 90px;
+  top: 190px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 3s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-165 {
+  left: 59px;
+  top: 55px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 14s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-166 {
+  left: 197px;
+  top: 240px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 12s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-167 {
+  left: 81px;
+  top: 165px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 15s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-168 {
+  left: 91px;
+  top: 25px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 16s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-169 {
+  left: 194px;
+  top: 124px;
   animation: 2s opacity alternate infinite;
   animation-delay: 17s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-170 {
+  left: 73px;
+  top: 46px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-171 {
+  left: 178px;
+  top: 300px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 17s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-172 {
+  left: 167px;
+  top: 73px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 13s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-173 {
+  left: 221px;
+  top: 205px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 17s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-174 {
+  left: 91px;
+  top: 125px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 11s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-175 {
+  left: 57px;
+  top: 269px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 9s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-176 {
+  left: 273px;
+  top: 229px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 20s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-177 {
+  left: 196px;
+  top: 296px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 15s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-178 {
+  left: 228px;
+  top: 289px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 16s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-179 {
+  left: 31px;
+  top: 63px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 6s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-180 {
+  left: 260px;
+  top: 43px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 19s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-181 {
+  left: 88px;
+  top: 277px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 5s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-182 {
+  left: 29px;
+  top: 78px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 11s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-183 {
+  left: 143px;
+  top: 231px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-184 {
+  left: 284px;
+  top: 99px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 2s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-185 {
+  left: 109px;
+  top: 188px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 15s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-186 {
+  left: 82px;
+  top: 122px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 5s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-187 {
+  left: 151px;
+  top: 3px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-188 {
+  left: 42px;
+  top: 242px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 3s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-189 {
+  left: 211px;
+  top: 173px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 13s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-190 {
+  left: 145px;
+  top: 96px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 5s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-191 {
+  left: 261px;
+  top: 25px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 9s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-192 {
+  left: 176px;
+  top: 147px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 18s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-193 {
+  left: 47px;
+  top: 261px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 1s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-194 {
+  left: 191px;
+  top: 155px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 13s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-195 {
+  left: 105px;
+  top: 3px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 8s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-196 {
+  left: 165px;
+  top: 290px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 2s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-197 {
+  left: 263px;
+  top: 62px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 16s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-198 {
+  left: 58px;
+  top: 7px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 12s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-199 {
+  left: 131px;
+  top: 153px;
+  animation: 1s opacity alternate infinite;
+  animation-delay: 20s;
+}
+
+@keyframes opacity {
+  to {
+    opacity: 0.2;
+  }
+}
+
+.box .container .star.star-200 {
+  left: 170px;
+  top: 299px;
+  animation: 2s opacity alternate infinite;
+  animation-delay: 16s;
 }
 
 @keyframes opacity {
@@ -2669,9 +2669,9 @@ body {
 }
 
 .box .container .shooting-star.shooting-star-1 {
-  top: 126px;
+  top: 135px;
   left: -80px;
-  animation: 4s shooting-star infinite 7s;
+  animation: 4s shooting-star infinite 3.66667s;
 }
 
 @keyframes shooting-star {
@@ -2684,9 +2684,9 @@ body {
 }
 
 .box .container .shooting-star.shooting-star-2 {
-  top: 150px;
+  top: 147px;
   left: -80px;
-  animation: 4s shooting-star infinite 2.33333s;
+  animation: 4s shooting-star infinite 8.33333s;
 }
 
 @keyframes shooting-star {
@@ -2699,9 +2699,9 @@ body {
 }
 
 .box .container .shooting-star.shooting-star-3 {
-  top: 79px;
+  top: 80px;
   left: -80px;
-  animation: 4s shooting-star infinite 2.33333s;
+  animation: 4s shooting-star infinite 6.66667s;
 }
 
 @keyframes shooting-star {
@@ -2714,9 +2714,9 @@ body {
 }
 
 .box .container .shooting-star.shooting-star-4 {
-  top: 25px;
+  top: 147px;
   left: -80px;
-  animation: 4s shooting-star infinite 1.66667s;
+  animation: 4s shooting-star infinite 1.33333s;
 }
 
 @keyframes shooting-star {
@@ -2729,9 +2729,9 @@ body {
 }
 
 .box .container .shooting-star.shooting-star-5 {
-  top: 51px;
+  top: 120px;
   left: -80px;
-  animation: 4s shooting-star infinite 0.66667s;
+  animation: 4s shooting-star infinite 4.33333s;
 }
 
 @keyframes shooting-star {
@@ -2744,9 +2744,9 @@ body {
 }
 
 .box .container .shooting-star.shooting-star-6 {
-  top: -15px;
+  top: 88px;
   left: -80px;
-  animation: 4s shooting-star infinite 8s;
+  animation: 4s shooting-star infinite 9.33333s;
 }
 
 @keyframes shooting-star {
