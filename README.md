@@ -69,3 +69,4 @@
 [100-days-css-069](https://codepen.io/fatihydrm/embed/gOXzgJa/?theme-id=modal#result-box)  
 [100-days-css-070](https://codepen.io/fatihydrm/embed/vYWjxKO/?theme-id=modal#result-box)  
 [100-days-css-071](https://codepen.io/fatihydrm/embed/jOaKWez/?theme-id=modal#result-box)  
+[100-days-css-072](https://codepen.io/fatihydrm/embed/zYPLOdO/?theme-id=modal#result-box)  
