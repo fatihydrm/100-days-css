@@ -11,7 +11,7 @@
   overflow: hidden;
   background: #3498db;
   color: #fff;
-  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-family: "Open Sans", Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -68,13 +68,15 @@
   0% {
     transform: translateY(-100px);
   }
-  20%, 100% {
+  20%,
+  100% {
     transform: translateY(0);
   }
 }
 
 @keyframes up {
-  0%, 75% {
+  0%,
+  75% {
     transform: translateY(0);
   }
   100% {
@@ -83,7 +85,8 @@
 }
 
 @keyframes squeeze {
-  0%, 4% {
+  0%,
+  4% {
     transform: scale(1);
   }
   45% {
@@ -98,13 +101,15 @@
   0% {
     transform: rotate(-135deg);
   }
-  20%, 100% {
+  20%,
+  100% {
     transform: rotate(0deg);
   }
 }
 
 @keyframes rotate-out {
-  0%, 80% {
+  0%,
+  80% {
     transform: rotate(0);
   }
   100% {
@@ -113,10 +118,12 @@
 }
 
 @keyframes shadow {
-  0%, 100% {
+  0%,
+  100% {
     transform: scaleX(0.5);
   }
-  45%, 50% {
+  45%,
+  50% {
     transform: scaleX(1.8);
   }
 }
